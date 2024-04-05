@@ -18,11 +18,13 @@ O The Artivist Protocol emite um total de 300 tokens TAP, que são distribuídos
 
 #### Lastro do Token TAP
 
-O lastro do token TAP é estabelecido inicialmente em 100 Sol. Isso significa que, no lançamento, o pool de liquidez na Uniswap será composto por 100 Sol emparelhados com os tokens TAP disponíveis para negociação.
+O lastro do token TAP é estabelecido inicialmente em 100 Sol. Isso significa que, no lançamento, o pool de liquidez na [Raydium](https://raydium.io/)
+ será composto por 100 Sol emparelhados com os tokens TAP disponíveis para negociação.
 
 #### Como o Preço é Determinado
 
-O preço de 1 TAP em relação ao Sol é definido pelo mercado na Uniswap, uma plataforma de Automated Market Maker (AMM). A fórmula utilizada é:
+O preço de 1 TAP em relação ao Sol é definido pelo mercado na [Raydium](https://raydium.io/)
+, uma plataforma de Automated Market Maker (AMM). A fórmula utilizada é:
 
 \[ \text{Preço de 1 TAP} = \frac{\text{Quantidade de Sol no Pool}}{\text{Quantidade de TAP no Pool}} \]
 
@@ -76,7 +78,8 @@ A estrutura de taxas de saída foi criada para incentivar a retenção de tokens
 
 #### Flutuações de Preço
 
-É importante notar que esse é o preço inicial, baseado na liquidez inicial do pool. O preço do TAP pode variar conforme a oferta e demanda dentro do pool de liquidez na Uniswap.
+É importante notar que esse é o preço inicial, baseado na liquidez inicial do pool. O preço do TAP pode variar conforme a oferta e demanda dentro do pool de liquidez na [Raydium](https://raydium.io/)
+.
 
 ### Utilização e Governança
 
@@ -85,8 +88,10 @@ A estrutura de taxas de saída foi criada para incentivar a retenção de tokens
 
 ### Transações e Taxas
 
-- **Compra de TAP:** As taxas são determinadas pela Uniswap e dependem das condições da rede Ethereum no momento da transação.
-- **Troca de TAP por Sol:** Similarmente, as taxas são as taxas padrão da Uniswap.
+- **Compra de TAP:** As taxas são determinadas pela [Raydium](https://raydium.io/)
+ e dependem das condições da rede Ethereum no momento da transação.
+- **Troca de TAP por Sol:** Similarmente, as taxas são as taxas padrão da [Raydium](https://raydium.io/)
+.
 
 ## Como Participar
 

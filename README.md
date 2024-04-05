@@ -20,7 +20,8 @@ A distribuição dos lucros do token TAP é feita de forma proporcional à quant
 
 ### Como trocar Sol por TAP?
 
-Você pode trocar Sol por TAP através da Uniswap, onde nosso token está listado. Basta adicionar Sol ao pool de liquidez correspondente para receber TAP em troca, de acordo com a taxa de mercado atual.
+Você pode trocar Sol por TAP através da [Raydium](https://raydium.io/)
+, onde nosso token está listado. Basta adicionar Sol ao pool de liquidez correspondente para receber TAP em troca, de acordo com a taxa de mercado atual.
 
 ### Como nos auditar?
 
@@ -32,15 +33,18 @@ Os lucros são divididos proporcionalmente entre todos os detentores de tokens T
 
 ### Quanto que irei pagar de taxas para comprar um token TAP?
 
-As taxas para comprar um token TAP são as taxas padrão da Uniswap, que variam conforme a demanda na rede Ethereum.
+As taxas para comprar um token TAP são as taxas padrão da [Raydium](https://raydium.io/)
+, que variam conforme a demanda na rede Ethereum.
 
 ### Quanto que irei pagar de taxas para trocar 1 token TAP por Sol?
 
-As taxas para trocar um token TAP por Sol são novamente as taxas padrão da Uniswap e dependem das condições da rede no momento da transação.
+As taxas para trocar um token TAP por Sol são novamente as taxas padrão da [Raydium](https://raydium.io/)
+ e dependem das condições da rede no momento da transação.
 
 ## Como contribuir?
 
-Contribuições podem ser feitas através da participação ativa na comunidade, propondo ou votando em projetos, ou fornecendo liquidez no pool da Uniswap.
+Contribuições podem ser feitas através da participação ativa na comunidade, propondo ou votando em projetos, ou fornecendo liquidez no pool da [Raydium](https://raydium.io/)
+.
 
 ## Como contribuir e ser pago por sua contribuição?
 
