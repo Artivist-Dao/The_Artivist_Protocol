@@ -1,102 +1,101 @@
-# The Artivist Protocol
+# The Artivist Protocol Token
 
-## Sobre o Token TAP (The Artivist Protocol Token)
+## About TAP Token (The Artivist Protocol Token)
 
-### Introdução
+### Introduction
 
-O token TAP é o coração do The Artivist Protocol, uma DAO criada para fomentar a união entre arte e ativismo social. O token serve como um meio para governança, financiamento e recompensa dentro do nosso ecossistema.
+The TAP token is the heart of The Artivist Protocol, a DAO created to foster the union between art and social activism. The token serves as a means for governance, funding, and rewards within our ecosystem.
 
-### Distribuição dos Tokens
+### Token Distribution
 
-O The Artivist Protocol emite um total de 300 tokens TAP, que são distribuídos da seguinte maneira:
+The Artivist Protocol issues a total of 300 TAP tokens, which are distributed as follows:
 
-- **100 TAP para Participantes Criadores:** Artistas e ativistas que contribuem diretamente para o ecossistema.
-- **100 TAP para Investidores:** Indivíduos ou entidades que fornecem capital inicial e apoio.
-- **100 TAP para o Caixa da DAO:** Utilizados para financiar novos projetos, manter operações e investir em iniciativas que apoiam nossa missão.
+- **100 TAP for Creator Participants:** Artists and activists who directly contribute to the ecosystem.
+- **100 TAP for Investors:** Individuals or entities providing initial capital and support.
+- **100 TAP for DAO Treasury:** Used to fund new projects, maintain operations, and invest in initiatives supporting our mission.
 
-### Lastro e Liquidez
+### Backing and Liquidity
 
-#### Lastro do Token TAP
+#### TAP Token Backing
 
-O lastro do token TAP é estabelecido inicialmente em 100 Sol. Isso significa que, no lançamento, o pool de liquidez na [Raydium](https://raydium.io/)
- será composto por 100 Sol emparelhados com os tokens TAP disponíveis para negociação.
+The backing of the TAP token is initially established at 100 Sol. This means that at launch, the liquidity pool on [Raydium](https://raydium.io/)
+ will consist of 100 Sol paired with the TAP tokens available for trading.
 
-#### Como o Preço é Determinado
+#### How Price is Determined
 
-O preço de 1 TAP em relação ao Sol é definido pelo mercado na [Raydium](https://raydium.io/)
-, uma plataforma de Automated Market Maker (AMM). A fórmula utilizada é:
+The price of 1 TAP in terms of Sol is determined by the market on [Raydium](https://raydium.io/)
+, an Automated Market Maker (AMM) platform. The formula used is:
 
-\[ \text{Preço de 1 TAP} = \frac{\text{Quantidade de Sol no Pool}}{\text{Quantidade de TAP no Pool}} \]
+\[ \text{Price of 1 TAP} = \frac{\text{Amount of Sol in Pool}}{\text{Amount of TAP in Pool}} \]
 
-Com 100 Sol e 300 TAP no pool, o preço inicial de 1 TAP é aproximadamente 0.333 Sol.
+With 100 Sol and 300 TAP in the pool, the initial price of 1 TAP is approximately 0.333 Sol.
 
-## Tabela de Distribuição de Tokens e Detalhes Financeiros Progressivos
+## Table of Token Distribution and Progressive Financial Details
 
-A tabela a seguir mostra como o saldo total em Sol para cada grupo é afetado à medida que o lastro do protocolo aumenta, junto com as taxas de saída aplicáveis e a progressão do saldo após as taxas.
+The following table shows how the total balance in Sol for each group is affected as the protocol's backing increases, along with applicable withdrawal fees and the balance progression after fees.
 
-| Grupo                             | Saldo Total (em SOL e TAP) | Alíquota da Taxa de Saída | Taxa Estimada Conversão TAP para SOL | Saldo Total - Taxas (100 Sol Lastro) | Saldo Total - Taxas (1000 Sol Lastro) |
-|-----------------------------------|----------------------------|--------------------------|--------------------------------------|-------------------------------------|--------------------------------------|
-| Participantes Criadores - Sam     | 6.67 Sol (20 TAP)          | Ver tabela abaixo        | 0.333 Sol por TAP                    | [Cálculo]                           | [Cálculo]                            |
-| Participantes Criadores - Mat     | 6.67 Sol (20 TAP)          | Ver tabela abaixo        | 0.333 Sol por TAP                    | [Cálculo]                           | [Cálculo]                            |
-| Participantes Criadores - Gov     | 6.67 Sol (20 TAP)          | Ver tabela abaixo        | 0.333 Sol por TAP                    | [Cálculo]                           | [Cálculo]                            |
-| Participantes Criadores - Ca      | 6.67 Sol (20 TAP)          | Ver tabela abaixo        | 0.333 Sol por TAP                    | [Cálculo]                           | [Cálculo]                            |
-| Participantes Criadores - Bá      | 6.67 Sol (20 TAP)          | Ver tabela abaixo        | 0.333 Sol por TAP                    | [Cálculo]                           | [Cálculo]                            |
-| Investidores - Invest-1           | 6.67 Sol (20 TAP)          | Ver tabela abaixo        | 0.333 Sol por TAP                    | [Cálculo]                           | [Cálculo]                            |
-| Caixa da DAO                      | 33.33 Sol (100 TAP)        | Isento                   | 0.333 Sol por TAP                    | 33.33 Sol                           | 333.33 Sol                           |
+| Group                            | Total Balance (in SOL and TAP) | Withdrawal Fee Rate | Estimated TAP to SOL Conversion Fee | Total Balance - Fees (100 Sol Backing) | Total Balance - Fees (1000 Sol Backing) |
+|----------------------------------|---------------------------------|---------------------|--------------------------------------|----------------------------------------|-----------------------------------------|
+| Creator Participants - Sam       | 6.67 Sol (20 TAP)               | See table below     | 0.333 Sol per TAP                   | [Calculation]                          | [Calculation]                           |
+| Creator Participants - Mat       | 6.67 Sol (20 TAP)               | See table below     | 0.333 Sol per TAP                   | [Calculation]                          | [Calculation]                           |
+| Creator Participants - Gov       | 6.67 Sol (20 TAP)               | See table below     | 0.333 Sol per TAP                   | [Calculation]                          | [Calculation]                           |
+| Creator Participants - Ca        | 6.67 Sol (20 TAP)               | See table below     | 0.333 Sol per TAP                   | [Calculation]                          | [Calculation]                           |
+| Creator Participants - Bá        | 6.67 Sol (20 TAP)               | See table below     | 0.333 Sol per TAP                   | [Calculation]                          | [Calculation]                           |
+| Investors - Invest-1             | 6.67 Sol (20 TAP)               | See table below     | 0.333 Sol per TAP                   | [Calculation]                          | [Calculation]                           |
+| DAO Treasury                     | 33.33 Sol (100 TAP)             | Exempt              | 0.333 Sol per TAP                   | 33.33 Sol                              | 333.33 Sol                              |
 
-Alíquotas da Taxa de Saída (Progressiva):
+Progressive Withdrawal Fee Rates:
 
-- **100 Sol Lastro:**
-  - 0 a 10 Sol: 50%
-  - 11 a 50 Sol: 40%
-  - 51 a 70 Sol: 30%
-- **1000 Sol Lastro:**
-  - 0 a 10 Sol: 30%
-  - 11 a 50 Sol: 20%
-  - 51 a 70 Sol: 10%
+- **100 Sol Backing:**
+  - 0 to 10 Sol: 50%
+  - 11 to 50 Sol: 40%
+  - 51 to 70 Sol: 30%
+- **1000 Sol Backing:**
+  - 0 to 10 Sol: 30%
+  - 11 to 50 Sol: 20%
+  - 51 to 70 Sol: 10%
 
-O saldo total após as taxas será calculado considerando as alíquotas progressivas da taxa de saída para cada faixa de lastro e a taxa estimada de conversão de TAP para Sol.
+The total balance after fees will be calculated considering the progressive withdrawal fee rates for each backing range and the estimated conversion fee from TAP to Sol.
 
-## Importância da Estrutura de Taxas Progressivas
+## Importance of Progressive Fee Structure
 
-Esta estrutura de taxas progressivas incentiva a retenção de tokens TAP a longo prazo e apoia a estabilidade financeira do protocolo. À medida que o lastro do protocolo em Sol aumenta, as taxas de saída diminuem, oferecendo melhores condições para os detentores de tokens à medida que o protocolo cresce e se torna mais robusto.
+This progressive fee structure incentivizes long-term retention of TAP tokens and supports the financial stability of the protocol. As the protocol's backing in Sol increases, withdrawal fees decrease, offering better conditions for token holders as the protocol grows and becomes more robust.
 
-## Alíquota da Taxa de Saída
+## Withdrawal Fee Rate
 
-A taxa de saída é uma alíquota cobrada quando os detentores de tokens TAP decidem vendê-los. As taxas são escalonadas com base no valor em Sol:
+The withdrawal fee rate is a percentage charged when TAP token holders decide to sell them. The fees are tiered based on the value in Sol:
 
-- **0 a 10 Sol:** 50%
-- **11 a 50 Sol:** 40%
-- **51 a 70 Sol:** 30%
+- **0 to 10 Sol:** 50%
+- **11 to 50 Sol:** 40%
+- **51 to 70 Sol:** 30%
 
-Note que o Caixa da DAO é isento de taxas de saída para apoiar a continuidade das operações e financiamento de projetos.
+Note that the DAO Treasury is exempt from withdrawal fees to support continued operations and project funding.
 
-## Importância da Estrutura de Taxas
+## Importance of Fee Structure
 
-A estrutura de taxas de saída foi criada para incentivar a retenção de tokens TAP a longo prazo e apoiar a estabilidade financeira do protocolo. Taxas mais altas para quantias menores incentivam os detentores a pensar cuidadosamente antes de vender seus tokens, apoiando assim a sustentabilidade do ecossistema The Artivist Protocol.
+The withdrawal fee structure was designed to encourage long-term retention of TAP tokens and support the financial stability of the protocol. Higher fees for smaller amounts incentivize holders to carefully consider before selling their tokens, thus supporting the sustainability of The Artivist Protocol ecosystem.
 
+#### Price Fluctuations
 
-#### Flutuações de Preço
-
-É importante notar que esse é o preço inicial, baseado na liquidez inicial do pool. O preço do TAP pode variar conforme a oferta e demanda dentro do pool de liquidez na [Raydium](https://raydium.io/)
+It's important to note that this is the initial price, based on the initial liquidity of the pool. The price of TAP may vary depending on supply and demand within the liquidity pool on [Raydium](https://raydium.io/)
 .
 
-### Utilização e Governança
+### Usage and Governance
 
-- **Governança:** Detentores de TAP podem votar em propostas, alterações de protocolo e alocação de fundos da DAO.
-- **Recompensas e Benefícios:** Participantes ativos podem receber TAP como recompensa por suas contribuições.
+- **Governance:** TAP holders can vote on proposals, protocol changes, and DAO fund allocation.
+- **Rewards and Benefits:** Active participants may receive TAP as a reward for their contributions.
 
-### Transações e Taxas
+### Transactions and Fees
 
-- **Compra de TAP:** As taxas são determinadas pela [Raydium](https://raydium.io/)
- e dependem das condições da rede Ethereum no momento da transação.
-- **Troca de TAP por Sol:** Similarmente, as taxas são as taxas padrão da [Raydium](https://raydium.io/)
+- **Buying TAP:** Fees are determined by [Raydium](https://raydium.io/)
+ and depend on Ethereum network conditions at the time of transaction.
+- **Swapping TAP for Sol:** Similarly, fees are the standard fees from [Raydium](https://raydium.io/)
 .
 
-## Como Participar
+## How to Participate
 
-Para se envolver com The Artivist Protocol, adquira tokens TAP e participe da nossa comunidade. Seja propondo projetos, votando em iniciativas ou contribuindo com sua arte e ativismo.
+To get involved with The Artivist Protocol, acquire TAP tokens and join our community. Whether by proposing projects, voting on initiatives, or contributing your art and activism.
 
-## Contribuições e Recompensas
+## Contributions and Rewards
 
-Contribuições são recompensadas proporcionalmente com TAP ou Sol, dependendo da natureza da tarefa e do acordo estabelecido. Encorajamos todos os membros a se envolverem ativamente e a ajudarem a moldar o futuro do The Artivist Protocol.
+Contributions are rewarded proportionally with TAP or Sol, depending on the nature of the task and the established agreement. We encourage all members to actively engage and help shape the future of The Artivist Protocol.
