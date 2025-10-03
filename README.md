@@ -1,5 +1,7 @@
 # The_Artivist_Protocol
 
+![https://www.notion.so/Artivist-Protocol-DAO-334467c035604aba9fcd43fa8e9ebf0f](https://www.notion.so/Artivist-Protocol-DAO-334467c035604aba9fcd43fa8e9ebf0f)
+
 ## Objective
 
 The objective of The Artivist Protocol is to create a decentralized ecosystem that empowers artists and activists, providing a platform where art and activism can merge to promote significant social changes. Our protocol utilizes blockchain technology to ensure transparency and fairness in resource distribution and decision-making.
