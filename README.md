@@ -1,6 +1,6 @@
 # The_Artivist_Protocol
 
-[![The Artivist Protocol]([https://seusite.com/image.jpg](https://img.notionusercontent.com/s3/prod-files-secure%2F302425fa-4b5b-46fc-a0c2-ae9b6b2616ff%2F1f4e0684-1611-4982-b4ce-7555a9a80503%2FUntitled.png/size/w=770?exp=1759608747&sig=eiSkfbjUAM8nfc8Fdt0vRS1Jhc2os38Y0PeuYPTG_6U&id=26058cb2-3302-4606-a0f0-67654bcf215f&table=block))](https://www.notion.so/Artivist-Protocol-DAO-334467c035604aba9fcd43fa8e9ebf0f)
+[![The Artivist Protocol](./hero.png))](https://www.notion.so/Artivist-Protocol-DAO-334467c035604aba9fcd43fa8e9ebf0f)
 
 ## Objective
 
