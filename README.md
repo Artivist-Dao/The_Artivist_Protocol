@@ -1,6 +1,6 @@
 # The_Artivist_Protocol
 
-[![The Artivist Protocol](https://www.notion.so/Artivist-Protocol-DAO-334467c035604aba9fcd43fa8e9ebf0f)](https://www.notion.so/Artivist-Protocol-DAO-334467c035604aba9fcd43fa8e9ebf0f)
+[![The Artivist Protocol](https://seusite.com/image.jpg)](https://www.notion.so/Artivist-Protocol-DAO-334467c035604aba9fcd43fa8e9ebf0f)
 
 ## Objective
 
